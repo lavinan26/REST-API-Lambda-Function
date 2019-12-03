@@ -6,8 +6,6 @@ This README would normally document whatever steps are necessary to get your app
 
 This repo consists the lambda function for a REST API to connect with MongoDB
 
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
 ### How do I get set up? ###
 
 Download this repo
