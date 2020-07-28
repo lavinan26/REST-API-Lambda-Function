@@ -1,10 +1,6 @@
-# README #
+# Lambda Function for REST API #
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
-### What is this repository for? ###
-
-This repo consists the lambda function for a REST API to connect with MongoDB
+This repo consists the AWS lambda function for a REST API to connect with MongoDB
 
 ### How do I get set up? ###
 
